@@ -1,0 +1,1 @@
+This is a project for robotic arm trajectory planning. We have a physical robotic arm that needs to be programmed to control his path. We have virtual simulation and physical control of it in five and six degree of freedom settings respectively. The ultimate goal is to make it complete manipulation of objects within a restricted area.
